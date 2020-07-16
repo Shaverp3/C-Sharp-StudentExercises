@@ -1,0 +1,13 @@
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.csprojAssemblyReference.cache
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.AssemblyInfo.cs
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.exe
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.deps.json
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.runtimeconfig.json
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.runtimeconfig.dev.json
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.dll
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\bin\Debug\netcoreapp3.1\StudentExercises.pdb
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.dll
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.pdb
+C:\Users\NewForce\workspace\backend\csharp\StudentExercises\obj\Debug\netcoreapp3.1\StudentExercises.genruntimeconfig.cache
