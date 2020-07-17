@@ -115,7 +115,8 @@ namespace StudentExercises
 
             Console.WriteLine("Welcome! What would you like to do?");
             Console.WriteLine("1. See a report of which students are working on which exercises");
-            Console.WriteLine("2. Exit");
+            Console.WriteLine("2. Create a student");
+            Console.WriteLine("3. Exit");
             string response = Console.ReadLine();
             if (response == "1"){
                 allExercises.ForEach(exercise => {
@@ -124,6 +125,33 @@ namespace StudentExercises
                     exercise.assignedStudents.ForEach(student => Console.WriteLine($"{student.FirstName} {student.LastName}"));
                     Console.WriteLine();
                 });
+            }else if (response =="2"){
+                Console.WriteLine("Let's create a student!!");
+                Console.WriteLine("What's the student's first name?");
+                string firstNameInput = Console.ReadLine();
+                Console.WriteLine("What's the student's last name?");
+                string lastNameInput = Console.ReadLine();
+                
+                Console.WriteLine("What's the student's grade?");
+                //instantiate a new student with the info the user entered
+                Student userInputStudent = new Student(){
+                    FirstName = firstNameInput,
+                    LastName = lastNameInput,
+                };
+            //try-catch block
+                try {
+                    userInputStudent.Grade = Int32.Parse(Console.ReadLine());
+                } catch (FormatException){
+                    Console.WriteLine("Please enter a number for the student's grade");
+                }
+                
+                
+
+
+                Console.WriteLine($"Your student's name is {userInputStudent.FirstName} {userInputStudent.LastName} and their grade is {userInputStudent.Grade}");
+
+
+
             }
         }
     }
